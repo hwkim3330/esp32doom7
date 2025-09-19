@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ESP32 DOOM 🎮 - Waveshare 7" Touch LCD
 
 A complete implementation of DOOM running on ESP32-S3 with Waveshare 7" Touch LCD display.
@@ -246,3 +247,6 @@ If you like this project, please give it a star!
 
 ---
 *Last Updated: 2025-01-09*
+=======
+# esp32doom7
+>>>>>>> 5b042dfab8261919156aaeacf037978dd59d5ae9
