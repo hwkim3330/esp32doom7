@@ -1,0 +1,44 @@
+# Arduino build files
+build/
+*.elf
+*.bin
+*.map
+
+# SPIFFS binary
+*.spiffs
+
+# WAD files (copyrighted)
+*.wad
+*.WAD
+
+# Temporary files
+*.tmp
+*.bak
+*.old
+*~
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# Logs
+*.log
+
+# Arduino CLI
+.arduino15/
